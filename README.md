@@ -1,7 +1,7 @@
 # Cilia Segmentation
 ## Team - Tamiyo
-project description
-
+### Project Description
+### Dataset
 ## Installation
 * [Google Cloud Platform](https://cloud.google.com/)
 * [Tensorflow](https://www.tensorflow.org/install)
