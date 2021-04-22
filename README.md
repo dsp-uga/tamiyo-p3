@@ -35,6 +35,10 @@ Please see [CONTRIBUTORS](https://github.com/dsp-uga/tamiyo-p3/blob/main/CONTRIB
 This project is licensed under the MIT License - see the <a href="https://github.com/dsp-uga/tamiyo-p3/blob/main/LICENSE">LICENSE</a> file for the details.
 
 ## Approach
+* U-Net
+  * It is a Convolution Neural Networks for Biomedical Image Segmentation
+  * Best architecture to work with less training samples(images) 
+  
 
 ## References
 * [U-Net Model](https://github.com/bnsreenu/python_for_microscopists/blob/master/204-207simple_unet_model.py)
