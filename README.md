@@ -2,8 +2,8 @@
 ## Team - Tamiyo
 This project is implemented as a part of the Data Science Practicum (CSCI 8360) course at the University of Georgia. The goal was to develop a video segmentation pipeline that identifies the regions of the videos containing cilia as accurately as possible. Cilia are microscopic hairlike structures that protrude from literally every cell in your body. They beat in regular, rhythmic patterns to perform myriad tasks, from moving nutrients in to moving irritants out to   amplifying cell-cell signaling pathways to generating calcium fluid flow in early cell differentiation.
 
-##Dataset:
-The data are all available on GCP: gs://uga-dsp/project3 
+## Dataset:
+The data are all available on GCP: gs://uga-dsp/project3<br> 
 In that parent folder, there are two subfolders: data and masks. 
 <ul>
   <li>Data contains a bunch of folders (325 of them), named as hashes, each of which contains 100 consecutive frames of a grayscale video of cilia.</li>
