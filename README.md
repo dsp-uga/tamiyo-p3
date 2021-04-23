@@ -48,5 +48,4 @@ This project is licensed under the MIT License - see the <a href="https://github
 * [Image Segmentation using U-Net](https://www.youtube.com/watch?v=68HR_eyzk00) - Youtube tutorial
 * [Learn How to Train U-Net On Your Dataset](https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623) - Medium Blog
 * [Semantic Segmentation Pipeline](https://github.com/HasnainRaz/SemSegPipeline) - Prerocess the image and segmentation masks with augmentations on the CPU.
-
-
+* [Pretrained CNN (VGG16 - imagenet) features for semantic segmentation using Random Forest](https://www.youtube.com/watch?v=vgdFovAZUzM) - Youtube tutorial
