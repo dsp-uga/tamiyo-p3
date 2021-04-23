@@ -44,3 +44,9 @@ This project is licensed under the MIT License - see the <a href="https://github
 * [U-Net Model](https://github.com/bnsreenu/python_for_microscopists/blob/master/204-207simple_unet_model.py)
 * [PyTorch](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) - RCNN with Pytorch
 * [Semantic Segmentation](https://medium.com/@pallawi.ds/semantic-segmentation-with-u-net-train-and-test-on-your-custom-data-in-keras-39e4f972ec89)
+* [U-Net](https://github.com/zhixuhao/unet) - Implementation of deep learning framework -- Unet, using Keras
+* [Image Segmentation using U-Net](https://www.youtube.com/watch?v=68HR_eyzk00) - Youtube tutorial
+* [Learn How to Train U-Net On Your Dataset](https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623) - Medium Blog
+* [Semantic Segmentation Pipeline](https://github.com/HasnainRaz/SemSegPipeline) - Prerocess the image and segmentation masks with augmentations on the CPU.
+
+
